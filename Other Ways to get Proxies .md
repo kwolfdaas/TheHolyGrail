@@ -1,9 +1,15 @@
-# ByePassHub > Other ways to get Proxies | updated April 12!!
+# ByePassHub > Other ways to get Proxies | updated April 24!!
 **BEST & MOST UP TO DATE** Resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
 1. You can get the freshest links and tools 😎
 2. Those links and bypasses are more likely to work for a longer time
+3. Note: these resources aren't in any particular order.
 
-## Resource #1: Discord Servers
+## Resource #1a: unblokkked 
+The continuance of ByePassHub by ItsCharged and theSpaceFox, who were previous contributors to this collection. Actively maintained as of 4/24/26, called unblokkked. <br>
+**https://unblokkked.web.app/** <br>
+Repository found here: https://github.com/ItsCharged/unblokked <br>
+
+## Resource #1b: Discord Servers
 After joining these servers (make sure you have a discord account first), you can verify and access plenty of links. <br>
 **Usually, these servers have a channel called `community links` where people would post fresh links that they made.**  <br>
 They also have things called **link dispensers**, these links are PRIVATE, 100% working, and probably the most secure links. <br>
